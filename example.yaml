@@ -1,0 +1,8 @@
+sp_privkey: privkey.pem
+ias_cert : ias_cert.pem
+enclave_settings : settings.json
+enclave_sig : enclave.sig
+enclave_host : www.google.com
+enclave_port : 3322
+aesm_host : www.facebook.com
+aesm_port : 13471
